@@ -2,7 +2,6 @@
 .vscode
 .DS_Store
 build.xcconfig
-*.js
 *.js.map
 *.log
 demo/app/*.js
